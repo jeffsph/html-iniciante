@@ -1,0 +1,23 @@
+body{
+    font-family: 'Special Elite', cursive;
+}
+
+.container{
+    width: 27%;
+    background-color: rgb(7, 79, 55);
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px solid black;
+}
+
+img{
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.image-div {
+    width: 100%;
+    text-align: center;
+}
